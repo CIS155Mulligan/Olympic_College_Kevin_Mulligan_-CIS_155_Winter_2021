@@ -1,4 +1,10 @@
 @charset "utf-8";
+/*
+Kevin Mulligan
+CIS 155
+01/20/21
+*/
+
 /*HTML structure Elements */
 
 
@@ -26,7 +32,12 @@ html{
 
 /* Default List Styles*/
 
-
+nav ul{
+    list-style: none;
+    list-style-image: none;
+    margin:0;
+    padding:0;
+}
 
 
 
